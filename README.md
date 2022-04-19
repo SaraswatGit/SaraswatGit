@@ -8,4 +8,4 @@
 
 ⚡ Technologies I am familiar with : React js , Node js , Git , JavaScript , C++ , Java , Express , MySql
 
-📫 How to reach me: Email : saraswatmajumder@gmail.com  Phone : 9082228609
+📫 How to reach me: Email : saraswatmajumder@gmail.com 
